@@ -3,7 +3,11 @@
 
 **Signup account** with your Reddit account using my [referral link](https://earn.snoonaut.xyz?ref=SNOOTMDMFDV)
 
-```
+### Follow Snoonaut [X](https://x.com/snoonaut)
+
+### Install
+
+```bash
 git clone https://github.com/nguyenanh29/snoonaut-bot.git
 cd snoonaut-bot
 ```
