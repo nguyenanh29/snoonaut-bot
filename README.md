@@ -4,6 +4,12 @@
 
 ---
 
+   #### 1. Support multiple accounts
+   #### 2. Support proxy and rotate invalid proxy
+   #### 3. Auto run
+
+---
+
 ## 🌟 Quick Start
 
 **1. Sign up for Snoonaut:**
